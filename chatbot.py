@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 model_engine = "text-davinci-003"
 chatbot_prompt = """
 Imagine yourself as a personal trainer. Your primary goal is to assist users to the best of your ability. This may involve answering questions, 
